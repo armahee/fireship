@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fireship/static/css/main.9cb7495d.chunk.css",
+    "main.js": "/fireship/static/js/main.c9180ddd.chunk.js",
+    "main.js.map": "/fireship/static/js/main.c9180ddd.chunk.js.map",
+    "runtime-main.js": "/fireship/static/js/runtime-main.541bba21.js",
+    "runtime-main.js.map": "/fireship/static/js/runtime-main.541bba21.js.map",
+    "static/js/2.0e3cf04b.chunk.js": "/fireship/static/js/2.0e3cf04b.chunk.js",
+    "static/js/2.0e3cf04b.chunk.js.map": "/fireship/static/js/2.0e3cf04b.chunk.js.map",
+    "index.html": "/fireship/index.html",
+    "precache-manifest.bee656aec5d072c1d2e4ca19991150ce.js": "/fireship/precache-manifest.bee656aec5d072c1d2e4ca19991150ce.js",
+    "service-worker.js": "/fireship/service-worker.js",
+    "static/css/main.9cb7495d.chunk.css.map": "/fireship/static/css/main.9cb7495d.chunk.css.map",
+    "static/js/2.0e3cf04b.chunk.js.LICENSE.txt": "/fireship/static/js/2.0e3cf04b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.541bba21.js",
+    "static/js/2.0e3cf04b.chunk.js",
+    "static/css/main.9cb7495d.chunk.css",
+    "static/js/main.c9180ddd.chunk.js"
+  ]
+}
